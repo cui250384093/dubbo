@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="984f3c85-c64e-4e10-89b6-248794fcc37b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DataStructure" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JW" beforeDir="false" afterPath="$PROJECT_DIR$/../JW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../futures-trading" beforeDir="false" afterPath="$PROJECT_DIR$/../futures-trading" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn_mybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../learn_mybatis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn_spring5" beforeDir="false" afterPath="$PROJECT_DIR$/../learn_spring5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn_springmvc" beforeDir="false" afterPath="$PROJECT_DIR$/../learn_springmvc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/com/yl/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/test/java/com/yl/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yl/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yl/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven_repository" />
+        <option name="mavenHome" value="/opt/maven/apache-maven-3.8.4" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="/opt/maven/apache-maven-3.8.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24xJzc3hT0ZDRx5mkGysFkSXYzH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984f3c85-c64e-4e10-89b6-248794fcc37b" name="Changes" comment="" />
+      <created>1644566567160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644566567160</updated>
+      <workItem from="1644566568286" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -7,10 +7,11 @@
   <groupId>com.yl</groupId>
   <artifactId>demo1</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
 
-  <name>demo1</name>
+  <name>demo1 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.yl.com</url>
+  <url>http://www.mp.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -25,9 +26,6 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-
-
   </dependencies>
-
 
 </project>

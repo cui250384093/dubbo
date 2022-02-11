@@ -6,15 +6,15 @@
 
   <groupId>com.yl</groupId>
   <artifactId>mp</artifactId>
-  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>demo1</module>
   </modules>
+  <packaging>pom</packaging>
 
-  <name>mp</name>
+  <name>mp Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://www.mp.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
